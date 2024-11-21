@@ -7,15 +7,15 @@ The files for the two datasets can be found in their respective folders. We prov
 ## Examples
 
 ### A good example from Horst-DB (VPoser fit + VPoser enc.)
-![](https://hannibal42.github.io/Pantomime/Horst-Study/Horst-Study_S43.0011-Gait.npz_vposer_fitting_vposer_0.1.gif).
+![](Horst-Study/Horst-Study_S43.0011-Gait.npz_vposer_fitting_vposer_0.1.gif).
 
 ### A good example from CeTI-Locomotion (VPoser fit + VPoser enc.)
-![](https://hannibal42.github.io/Pantomime/CeTI-Locomotion/CeTI-Locomotion_sub-K60.task-gaitFast-tracksys-RokokoSmartSuitPro1-run-1-step-1-motion.npz_vposer_fitting_vposer_0.1.gif)
+![](CeTI-Locomotion/CeTI-Locomotion_sub-K60.task-gaitFast-tracksys-RokokoSmartSuitPro1-run-1-step-1-motion.npz_vposer_fitting_vposer_0.1.gif)
 
 
 ### A bad example from Horst-DB (HuMoR fit + HuMoR enc.)
-![](https://hannibal42.github.io/Pantomime/Horst-Study/Horst-Study_S26.0006-Gait.npz_humor_fitting_humor_0.1.gif)
+![](Horst-Study/Horst-Study_S26.0006-Gait.npz_humor_fitting_humor_0.1.gif)
 
 ### A bad example from CeTI-Locomotion (HuMoR fit + VPoser enc.)
-![](https://hannibal42.github.io/Pantomime/CeTI-Locomotion/CeTI-Locomotion_sub-K39.task-sts-tracksys-RokokoSmartSuitPro1-run-2-sequence-2-motion.npz_humor_fitting_vposer_0.1.gif)
+![](CeTI-Locomotion/CeTI-Locomotion_sub-K39.task-sts-tracksys-RokokoSmartSuitPro1-run-2-sequence-2-motion.npz_humor_fitting_vposer_0.1.gif)
 
