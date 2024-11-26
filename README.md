@@ -1,5 +1,5 @@
 ## Overview
-This repository contains the point light display renders from the paper "Pantomime: Pantomime: Towards the Anonymization of Motion Data using Foundation Motion Models". The motion sequences are the those used as stimuli for the user study.
+This repository contains the point light display renders from the paper "Pantomime: Towards the Anonymization of Motion Data using Foundation Motion Models". The motion sequences are the those used as stimuli for the user study.
 
 The files for the two datasets can be found in their respective folders. We provide a simple overview for each dataset showing the anonymizations of a single motion sequence side by side, [Horst Overview](Horst-Study/Horst-Study_overview.html) and [CeTI-Locomotion Overview](CeTI-Locomotion/CeTI-Locomotion_overview.html). In general, the combination of VPoser fitting and VPoser latent encoding for anonymization produces the best looking results. In the overview, the used sample from the datasets is written with the given recognition target, either 0.1 for 10% recognition accuracy or 0.2 for 20% recognition accuracy. By scaling the anonymizations to achieve the same recognition goal, their results can be directly compared.
 
